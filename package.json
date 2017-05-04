@@ -1,0 +1,14 @@
+{
+  "name": "prepack-assume-browser-globals",
+  "version": "1.0.0",
+  "description": "Add browser globals to prepack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohsen Azimi <me@azimi.me>",
+  "license": "MIT",
+  "dependencies": {
+    "globals": "^9.17.0"
+  }
+}
